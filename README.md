@@ -1,6 +1,6 @@
-## mymalloc(3), myfree(3) and memgrind
+# mymalloc(3), myfree(3) and memgrind
 
-# Metadata Design
+## Metadata Design
 As discussed in lecture, and as we know from the field of computer science, when
 designing a solution to a problem the main performance considerations will always be space and
 time complexity and the compromise between the two concepts. For a function my malloc(), this
